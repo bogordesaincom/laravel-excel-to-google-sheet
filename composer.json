@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": "^8.2",
-        "laravel/framework": "^10.13",
+        "laravel/framework": "^9.1||^10.13",
         "spatie/laravel-package-tools": "^1.15",
         "google/apiclient": "^2.13",
         "maatwebsite/excel": "^3.1"
